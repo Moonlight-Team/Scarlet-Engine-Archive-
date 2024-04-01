@@ -20,10 +20,14 @@ A modded version of RSDKv4 with fan game development in mind.
     * [Sonic 2, Via Amazon](https://www.amazon.com.au/Sega-of-America-Sonic-Hedgehog/dp/B00HAPRVWS)
     * A tutorial for finding the game assets from the Android versions can be found [here](https://gamebanana.com/tuts/14492).
 
-   * However, if you want a project that was made with Scarlet in mind, check out it's companion project: [RSDK-GDT 2.0](https://github.com/youngerelk1/RSDK-GDT/tree/main), the first (and only) framework for the Retro Engine!
+   * However, if you want a project that was made with RSDK+ in mind, check out it's companion project: [RSDK-GDT 2.0](https://github.com/youngerelk1/RSDK-GDT/tree/main), the first (and only) framework for the Retro Engine!
 
 Even if your platform isn't supported by the official releases, you **must** buy or officially download it for the assets (you don't need to run the official release, you just need the game assets (if running the original games (Sonic 1 & Sonic 2 in this case))
 ).
+
+#Why The Fork?
+*Dont Worry This Is The Same Team Behind Scarlet Engine. We Lost Access to The Original Fork, So We Decided To Make A New one. 
+PLease Support The [Orignal Decomp.](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
 
 # Additional Tweaks over RSDKv4
 * Adds the video playback from RSDKv3
@@ -32,11 +36,9 @@ Even if your platform isn't supported by the official releases, you **must** buy
 * Re-adds the Disable Focus Pause that was missing from the Mobile versions of RSDKv4
 * Extra functions for the scripting language (such as RSDKv5(U)-backported functions, alongside with RSDKv3 & RSDKv2/Sonic Nexus functions)
 
-# Scarlet Engine's Compatible Games
+# RSDK= Compatible Games
 * Sonic 1
 * Sonic 2
-* Virtua Scarlet
-* Another Sonic Adventure
 * RSDK-GDT (Framework)
 
 # How to Build?
