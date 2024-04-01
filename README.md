@@ -104,7 +104,7 @@ Note that the C++ server found in the `Server` folder has been deprecated and no
 # FAQ
 You can find the FAQ [here](./FAQ.md).
 
-# **Reminder this branch is unofficial, neither REMS nor the original decomp team can't provide support for this and it may not be up-to-date all the time.**
+# **Reminder this branch is unofficial, neither REMS nor the original decomp team can provide support for this and it may not be up-to-date all the time.**
 
 # Special Thanks
 * Geff For Helping With Video playback and fixing autobuilds
