@@ -25,7 +25,7 @@ A modded version of RSDKv4 with fan game development in mind.
 Even if your platform isn't supported by the official releases, you **must** buy or officially download it for the assets (you don't need to run the official release, you just need the game assets (if running the original games (Sonic 1 & Sonic 2 in this case))
 ).
 
-#Why The Fork?
+# Why The Fork?
 *Dont Worry This Is The Same Team Behind Scarlet Engine. We Lost Access to The Original Fork, So We Decided To Make A New one. 
 PLease Support The [Orignal Decomp.](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
 
